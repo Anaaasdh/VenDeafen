@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vencord-userplugin-A855F7?style=for-the-badge" alt="Vencord userplugin"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src=".assets/badges/vencord.svg" alt="Vencord userplugin"/>
+  <img src=".assets/badges/typescript.svg" alt="TypeScript"/>
 </p>
 
 ---
@@ -86,8 +86,8 @@ VenDeafen is based on [Vencord-FakeDeafen](https://github.com/hyyven) by **hyyve
     </td>
     <td>
       <strong>Anasdh</strong><br/>
-      <a href="https://github.com/Anaaasdh"><img src="https://img.shields.io/badge/GitHub-Anaaasdh-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-      <a href="https://discord.com/users/618227435745312768"><img src="https://img.shields.io/badge/Discord-Anasdh-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+      <a href="https://github.com/Anaaasdh"><img src=".assets/badges/github.svg" alt="GitHub"/></a>
+      <a href="https://discord.com/users/618227435745312768"><img src=".assets/badges/discord.svg" alt="Discord"/></a>
     </td>
   </tr>
 </table>
