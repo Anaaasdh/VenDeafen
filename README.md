@@ -73,9 +73,6 @@ Make sure **Show in voice list** is on and that you are in a voice channel. This
 Discord changes its interface often and the button can fail to attach. Use the keybind `Ctrl+Shift+Q` instead, and check that **Show button** is on in the plugin settings.
 </details>
 
-## 🙏 Credits
-
-VenDeafen is based on [Vencord-FakeDeafen](https://github.com/hyyven) by **hyyven**, which in turn credits [yofukashino](https://github.com/yofukashino) and [SiriusBYT](https://github.com/SiriusBYT) for the original idea on another Discord client.
 
 ## 👤 Author
 
@@ -95,4 +92,4 @@ VenDeafen is based on [Vencord-FakeDeafen](https://github.com/hyyven) by **hyyve
 > [!WARNING]
 > Modifying the Discord client can go against Discord's Terms of Service. Use it at your own risk.
 
-<sub>Copyright (c) 2026 Anasdh. Based on Vencord-FakeDeafen by hyyven.</sub>
+<sub>Copyright (c) 2026 Anasdh..</sub>
