@@ -2,7 +2,7 @@
  * VenDeafen, a Vencord plugin that fake deafens you in voice channels
  * Copyright (c) 2026 Anasdh
  *
- * Based on Vencord-FakeDeafen by hyyven (https://github.com/hyyven), see README.md for credits.
+ *see README.md for credits.
  */
 
 import ErrorBoundary from "@components/ErrorBoundary";
